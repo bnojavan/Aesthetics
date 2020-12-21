@@ -1,3 +1,5 @@
+<img src="https://www.crcv.ucf.edu/projects/video_aesthetics/mm13-va.png" />
+
 This directory contains accompanying code used in ACM MM 2013 Grand Challenge:
 NHK Where is beauty? submission.
 
