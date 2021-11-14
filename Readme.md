@@ -1,8 +1,6 @@
 This directory contains accompanying code used in ACM MM 2013 Grand Challenge:
 NHK Where is beauty? submission.
 
-Behnaz Nojavanasghari [behnaz.nojavan@gmail.com]
-Subh Bhattacharya [subh@cs.ucf.edu]
 07/11/2013
 
 This release contains only frame based features that can be computed on single 
